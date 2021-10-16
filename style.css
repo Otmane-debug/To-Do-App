@@ -1,0 +1,53 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+
+h1{
+    color: chocolate;
+    border: 5px dimgrey double ;
+    text-align: center;
+    width: 30%;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 8%;
+    margin-bottom: 5%;
+}
+
+#int{
+    margin-left: 30%;
+    margin-right: 30%;
+    border-left: solid gray ;
+    border-right: solid gray;
+}
+
+label{
+    margin-left: 10%;
+    color: green;
+    font-size: 150%;
+}
+
+input{
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 50%;
+}
+
+#ok, #del{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 1%;
+    width: 80%;
+    background-color: grey;
+    color: honeydew;
+}
+
+data{
+    width: 40%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
